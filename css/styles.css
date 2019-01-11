@@ -1,5 +1,5 @@
 body {
-  background-color: #A59586;
+  background-color: #d7dfe0;
 }
 
 h1 {
@@ -7,12 +7,31 @@ h1 {
 }
 
 .well-body {
-  margin-left: 300px;
+  margin-left: 275px;
   margin-top: 80px;
   float: right;
   padding: 20px;
   z-index: 1;
   background-color: white;
+}
+
+.sidebar {
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #d7dfe0;
+  overflow-x: hidden;
+  padding-top: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.profile {
+  width: 250px;
+  height: 250px;
 }
 
 .highlight {
@@ -23,10 +42,6 @@ h1 {
   margin: 60px 0 90px 0;
 }
 
-#profile {
-  width: 250px;
-  height: 250px;
-}
 
 #linkedin {
   text-align: center;
