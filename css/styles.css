@@ -3,16 +3,21 @@
   background-size: cover;
 } */
 
-.main {
-  margin-left: 50px;
-  padding: 0 10px;
-}
 
 body {
+  background-color: #A59586;
+}
+
+.well-body {
+  margin-left: 300px;
+  margin-top: 80px;
+  float: right;
+  padding: 20px;
+  z-index: 1;
   background-color: white;
 }
 
-.jumbotron {
+/* .rectangle-top {
   height: 175px;
   width: 100%;
   position: fixed;
@@ -21,6 +26,15 @@ body {
   left: 0;
   background-color: #A59586;
 }
+
+.rectangle-left {
+  height: 100%;
+  width: 500px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #A59586;
+} */
 
 .sidebar {
   height: 100%;
