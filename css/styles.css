@@ -3,6 +3,35 @@
   background-size: cover;
 } */
 
+.main {
+  margin-left: 50px;
+  padding: 0 10px;
+}
+
+body {
+  background-color: white;
+}
+
+.jumbotron {
+  height: 175px;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #A59586;
+}
+
+.sidebar {
+  height: 100%;
+  width: 500px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #A59586;
+}
+
 #linkedin {
   text-align: center;
 }
