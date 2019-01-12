@@ -1,37 +1,33 @@
 #_Portfolio_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Front End Development/Intro to Programming, Week 1 Independent Project, 01.11.19_
 
-#### By _**{List of contributors}**_
+#### By _**Randee Layosa**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This site is the product of our first independent project for Week 1. It is a portfolio website that tells you about who I am, my educational background, as well as why I am on this coding journey. It is a demonstration of the culmanation of coding I have learned thus far._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Clone this repository https://github.com/randeelayosa/portfolio.git _
+* _Open the repository in the text editor of your preference. (i.e. Atom.)_
+* _Open the file in the web browser fo your preference._
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_This site is best viewed on a desktop, with the window at 1270x1220px_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Should any problems occur, discover other bugs, or you have trouble viewing, please contact me._
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_This site was written in HTML and styled using Bootstrap._
 
-### License
+### Legal
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This software is licensed under MIT license.*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2019 **_Randee Layosa_**
