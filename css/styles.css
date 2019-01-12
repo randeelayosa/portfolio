@@ -1,5 +1,6 @@
 body {
   background-color: #d7dfe0;
+  font-family: 'Thasadith', sans-serif;
 }
 
 h1 {
@@ -8,7 +9,7 @@ h1 {
 
 .well-body {
   margin-left: 275px;
-  margin-top: 80px;
+  margin-top: 89px;
   float: right;
   padding: 20px;
   z-index: 1;
@@ -32,6 +33,12 @@ h1 {
 .profile {
   width: 250px;
   height: 250px;
+  margin-left: 25px;
+}
+
+.heading {
+  text-align: center;
+  font-family: 'Slabo 27px', serif;
 }
 
 .highlight {
