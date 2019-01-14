@@ -10,8 +10,8 @@ _This site is the product of our first independent project for Week 1. It is a p
 
 ## Setup/Installation Requirements
 
-* _Go to this link to view the page on GitHub "https://randeelayosa.github.io/portfolio" _
-* _Or, you can clone this repository "https://github.com/randeelayosa/portfolio.git" _
+* _Go to this link to view the page on GitHub "https://randeelayosa.github.io/portfolio"_
+* _Or, you can clone this repository "https://github.com/randeelayosa/portfolio.git"_
 * _Open the repository in the text editor of your preference. (i.e. Atom.)_
 * _Open the file in the web browser fo your preference._
 
